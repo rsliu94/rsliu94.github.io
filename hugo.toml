@@ -1,6 +1,6 @@
 baseURL = 'https://rsliu94.github.io/'
 languageCode = 'en-us'
-title = "'My New Hugo Site"
+title = "My New Hugo Site"
 copyright = 'John Doe' # Used in the footer copyright mention.
 enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's genAI/LLM web crawler blocking feature.
 
